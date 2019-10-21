@@ -1,0 +1,53 @@
+var data =[{
+		"id": "1",
+		"name": "Bananas",
+		"imagesrc":"./img/banana.jpg",
+		"price": "2€"
+	},
+	{
+		"id": "2",
+		"name": "Beer",
+		"imagesrc":"./img/beer.jpg",
+		"price": "2€"
+
+	},
+	{
+		"id": "3",
+		"name": "Camenbert",
+		"imagesrc":"./img/camenbert.jpg",
+		"price": "5€"
+	},
+	{
+		"id": "4",
+		"name": "Lemon",
+		"imagesrc":"./img/lemon.jpg",
+		"price": "3€"
+	},
+	{
+		"id": "5",
+		"name": "Milk",
+		"imagesrc":"./img/milch.png",
+		"price": "2€"
+	},
+	{
+		"id": "6",
+		"name": "Orange Juice",
+		"imagesrc":"./img/orange_juice.jpg",
+		"price": "2€"
+	},
+	{
+		"id": "7",
+		"name": "Popcorn",
+		"imagesrc":"./img/popcorn.jpg",
+		"price": "5€"
+	},
+	{
+		"id": "8",
+		"name": "Oreos",
+		"imagesrc":"./img/oreos.jpg",
+		"price": "3€"
+	}
+
+
+
+]
